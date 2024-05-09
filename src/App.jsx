@@ -7,7 +7,7 @@ import UserList from './components/UserList';
 
 function App() {
     const axiosInstance = axios.create({
-    baseURL: 'http://54.221.85.255:80'
+    baseURL: 'http://54.226.166.182:80'
   });
   return (
     <>
